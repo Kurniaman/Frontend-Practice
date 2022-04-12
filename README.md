@@ -1,2 +1,2 @@
-# Previews Second HTML
+# Previews Second.html
 ![Main page preview](main-page.png)
